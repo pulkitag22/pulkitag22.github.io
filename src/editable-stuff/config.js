@@ -55,7 +55,7 @@ const about = {
   imageSize: 375,
   message:
     "My name is Hashir Shoaib. I’m a graduate of 2020 from National University of Sciences and Technology at Islamabad with a degree in Computer Engineering. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
-  resume: require("../editable-stuff/resume.pdf"),
+  resume: require("../editable-stuff/Pulkit_Agrawal_Grad_School_Resume.pdf"),
 };
 
 // PROJECTS SECTION
